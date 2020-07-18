@@ -485,9 +485,9 @@ button,
 /* Main */
 #main {
   position: relative;
-  max-width: 30%;
+  max-width: 60%;
   top:3em;
-  min-width: 32em;
+  min-width: 29em;
   padding: 6em 3em 5em 3em ;
   background: #ffffff;
   border-radius: 25px;
